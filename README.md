@@ -3,7 +3,7 @@
 It's a flutter chess game application with fast code.
 
 ## Screenshot
-<img src="./listview.jpg" width="250">
+<img src="./chess.jpg" width="250">
 
 This project is a basic idea of my desire mobile app.
 
