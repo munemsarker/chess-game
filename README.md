@@ -1,18 +1,13 @@
-# Chess Game
+## flutter simple chess game
 
-A new Flutter project.
+It's a flutter chess game application with fast code.
 
-YouTube Tutorial: https://youtu.be/UvsKEmqtjHY
+## Screenshot
+<img src="./listview.jpg" width="250">
 
-## Getting Started
+This project is a basic idea of my desire mobile app.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you face any problem with this project or repositories just contact with me on 
+- facebook: www.facebook.com/munemuddin.engineer
+- instagram: www.instagram.com/munemsarker
